@@ -1,2 +1,2 @@
 # makefiles
-C++ and C
+If you have any issues please inform me
